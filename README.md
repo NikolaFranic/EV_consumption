@@ -1,2 +1,2 @@
-# EV_range
-Analyzing influential factors for EV range and calculating it based on the analysis results. 
+# EV_consumption
+Analyzing influential factors for EV consumption and calculating it based on the analysis results. 
